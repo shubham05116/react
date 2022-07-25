@@ -1,0 +1,117 @@
+
+
+hr {
+  border: .5px solid rgb(44, 41, 41);
+  font-weight: bolder;
+  height: 3px;
+  background: black;
+
+}
+body {
+  background-color: rgba(61, 57, 57, 0.701);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+padding-left: 20%;
+padding-right: 20%;
+color: white;
+text-align: left;
+
+}
+.main h1 {
+  color: rgb(255, 160, 122);
+  font-size: 40px;
+}
+
+  
+
+.main h2 {
+  color: rgb(255, 160, 122);
+  font-size: 30px;
+
+  text-decoration: underline;
+}
+.contact {
+  padding: 30px 30px 10px 30px;
+  margin: 30px 30px 10px 30px;
+}
+.about-me{
+    padding: 20px 20px;
+}
+.about-me h2 {
+ 
+  color: rgb(255, 160, 122);
+  font-size: 30px;
+  text-decoration: underline;
+}
+
+.about-me p {
+  letter-spacing: 1px;
+}
+
+.education {
+  padding: 20px 20px;
+}
+
+.education h2 {
+  color: rgb(255, 160, 122);
+  font-size: 30px;
+  text-decoration: underline;
+}
+
+.education table tr td {
+  padding: 10px;
+
+}
+.education table tr th {
+  padding: 10px;
+font-size: 20px; 
+}
+
+
+.experiance {
+  padding: 20px 20px;
+}
+
+
+.experiance h2 {
+    color: rgb(255, 160, 122);
+    font-size: 30px;
+    text-decoration: underline;
+  }
+
+
+  .experiance table tr th {
+    padding: 20px;
+    font-size: 20px;
+
+  }
+  .experiance table tr td {
+    padding: 20px;
+  }
+
+  .project{
+padding: 20px 20px;
+
+  }
+  .project h2{
+    color:  rgb(255, 160, 122);
+    font-size: 30px;
+    text-decoration: underline;
+  }
+  .project h3{
+    color:  rgb(255, 160, 122);
+    font-size: 20px;
+
+  }
+ .social {
+    padding: 50px;
+    text-align: center;
+ }
+ .social footer a{
+    padding-left: 20px;
+text-decoration: none;
+color: white;
+ }
+ .social footer a:hover{
+    color: red;
+    text-decoration: underline;
+ }
